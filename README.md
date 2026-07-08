@@ -1,82 +1,77 @@
 # 👋 Olá, eu sou o Pedro Bastos
-
-💻 QA Engineer em transição de carreira  
-🎯 Focado em Testes de Software e Automação de Testes  
-🚀 Em constante evolução na área de Quality Assurance  
+🎯 Customer Success Ops | Atendimento + Tecnologia
+💻 Background em desenvolvimento frontend
+🚀 Estudante de Engenharia de Software (5º semestre)
 
 ---
 
 ## 🚀 Sobre mim
+Sou um profissional de desenvolvimento em transição para Customer Success/Customer Success Ops, unindo experiência prática em atendimento ao cliente com uma base técnica pouco comum na área:
 
-Sou estudante de Engenharia de Software e atualmente estou focado em qualidade de software, com experiência prática em:
+- Gestão de relacionamento e atendimento ao cliente (gestão de restaurante familiar)
+- Processos e sistemas institucionais (Força Aérea Brasileira)
+- Desenvolvimento frontend(voluntariado na Atados)
+- Integrações e automações com APIs (HubSpot, Google Apps Script)
 
-- Testes manuais  
-- Automação de testes E2E  
-- Testes de API  
-- Identificação e documentação de bugs  
+Certificado pela **CS Academy** em Customer Success, Gestão de Atendimento e Suporte, e Liderança. Falo espanhol fluentemente, o que amplia meu alcance no atendimento a clientes internacionais.
 
-Tenho background em desenvolvimento frontend, o que me permite ter uma visão mais técnica das aplicações.
+Minha proposta de valor: trago rigor técnico para dentro da operação de CS — automatizando processos, integrando ferramentas e lendo dados com mais profundidade do que a média dos profissionais da área.
 
 ---
 
 ## 🧪 Projetos em destaque
 
-### 🔹 Automação E2E com Cypress
-📌 Testes automatizados de login, cadastro e API  
-📊 Relatórios com Mochawesome  
-☁️ Integração com Cypress Cloud  
-⚙️ CI com GitHub Actions  
+### 🔹 Integração HubSpot + Google Sheets
+📌 Integração via API do HubSpot com Google Apps Script
+📊 Sincronização automática de dados de clientes em planilhas
+⚙️ Projeto criado para aplicar automação em rotinas de CS Ops
+🔗 https://github.com/pedrohbastos94/cs-ops-hubspot-integration
 
-🔗 Acesse o projeto:  
-https://github.com/pedrohbastos94/cypress-e2e-adopet-tests
-https://github.com/pedrohbastos94/cypressVoll
+### 🔹 Automação E2E com Cypress
+📌 Testes automatizados de login, cadastro e API
+📊 Relatórios com Mochawesome
+☁️ Integração com Cypress Cloud
+⚙️ CI com GitHub Actions
+🔗 https://github.com/pedrohbastos94/cypress-e2e-adopet-tests
+🔗 https://github.com/pedrohbastos94/cypressVoll
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🔍 Testes
-- Cypress  
-- Testes de API  
-- Testes manuais  
-- BDD / Gherkin  
+### 🎯 Customer Success / Ops
+- HubSpot (API e automações)
+- Google Apps Script
+- Gestão de relacionamento com cliente
+- Mapeamento de processos
 
-### 🤖 Automação
-- Cypress (E2E)  
-- Robot Framework (em aprendizado)  
+### 💻 Desenvolvimento & QA
+- JavaScript / TypeScript
+- React / Node.js
+- Cypress (testes E2E)
+- Testes de API, testes manuais, BDD/Gherkin
 
 ### 🧰 Ferramentas
-- Git & GitHub  
-- Postman  
-- Cypress Cloud  
-- Mochawesome  
-- GitHub Actions  
-
-### 💻 Tecnologias
-- JavaScript  
-- TypeScript  
-- React  
-- Node.js  
+- Git & GitHub
+- Postman
+- GitHub Actions
+- Mochawesome
 
 ---
 
 ## 📊 Estatísticas GitHub
-
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohbastos94&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contato
-
-📧 pedro.bastoshf@gmail.com  
-🔗 https://linkedin.com/in/pedrinbastos  
+📧 pedro.bastoshf@gmail.com
+🔗 https://linkedin.com/in/pedrinbastos
 
 ---
 
 ## 🚀 Objetivo
-
-Atuar como QA Jr / QA Automation Jr, contribuindo com a qualidade, confiabilidade e evolução de sistemas.
+Atuar em Customer Success Ops / Customer Success, aplicando automação e tecnologia para tornar a operação de atendimento mais eficiente e orientada a dados.
 
 ---
-
 ⭐ Obrigado por visitar meu perfil!
