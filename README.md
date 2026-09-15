@@ -7,10 +7,16 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-Sou apaixonado por tecnologia e atualmente direciono minha carreira para Automação.
-Tenho experiência com desenvolvimento de software e venho expandindo minha atuação para automação de testes, testes de API, integrações e automação de processos.
-Gosto de transformar processos manuais e repetitivos em soluções automatizadas, buscando qualidade, eficiência e confiabilidade.
+Sou um profissional em transição para a área de Automação de Processos, unindo experiência prática em gestão operacional com uma base técnica pouco comum na área:
 
+Gestão de processos e atendimento (gestão de restaurante familiar)
+Processos e sistemas institucionais (Força Aérea Brasileira)
+Desenvolvimento frontend (Atados)
+Automação de processos e integrações via API (estilo RPA, com HubSpot e Google Apps Script)
+
+Certificado pela CS Academy em Customer Success, Gestão de Atendimento e Liderança — o que reforça minha visão de processo de ponta a ponta, olhando tanto pra quem executa quanto pra quem é impactado por ele. Falo espanhol fluentemente, o que amplia meu alcance em contextos internacionais.
+
+Minha proposta de valor: trago rigor técnico para dentro da operação — mapeando, documentando e automatizando processos manuais repetitivos, com uma leitura de dados mais profunda do que a média dos profissionais da área.
 ---
 
 ## 🧪 Projetos em destaque
@@ -33,11 +39,11 @@ Gosto de transformar processos manuais e repetitivos em soluções automatizadas
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🎯 Ops
+### 🎯 Processos
+- Mapeamento e documentação de processos (AS IS / TO BE)
+- Automação de processos (estilo RPA) com Google Apps Script
 - HubSpot (API e automações)
-- Google Apps Script
-- Gestão de relacionamento com cliente
-- Mapeamento de processos
+- Indicadores, relatórios e planilhas de acompanhamento
 
 ### 💻 Desenvolvimento & QA
 - JavaScript / TypeScript
@@ -51,10 +57,8 @@ Gosto de transformar processos manuais e repetitivos em soluções automatizadas
 - GitHub Actions
 - Mochawesome
 
----
-
 ## 📊 Estatísticas GitHub
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohbastos94&show_icons=true&theme=radical)
+![Pedro GitHub stats](https://github-stats-extended.vercel.app/api?username=pedrohbastos94&show_icons=true&theme=radical)
 
 ---
 
