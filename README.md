@@ -57,9 +57,6 @@ Minha proposta de valor: trago rigor técnico para dentro da operação — mape
 - GitHub Actions
 - Mochawesome
 
-## 📊 Estatísticas GitHub
-![Pedro GitHub stats](https://github-stats-extended.vercel.app/api?username=pedrohbastos94&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contato
